@@ -16,6 +16,6 @@ Protótipos para as duas versões, referentes à integração das duas novas ent
 
 [Mockups da versão web](https://github.com/dcota/Tarefa3.1/tree/master/mockups_web)
 
-Os protótipos encontram-se na pasta [protótipos.zip](https://github.com/dcota/Tarefa3.1/blob/master/prot%C3%B3tipos.zip), deverá descarregar a pasta, descompactar os ficheiros e abrir os ficheiros html no seu browser.
+Os protótipos encontram-se na pasta [protótipos.zip](https://github.com/dcota/Tarefa3.1/blob/master/prot%C3%B3tipos.zip), deverá descarregar a pasta, descompactar os ficheiros e abrir os ficheiros html no seu browser. Testado no Chrome e Edge.
 
 
