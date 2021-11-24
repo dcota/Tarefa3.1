@@ -8,16 +8,14 @@ Wireframes e mockups para as duas novas entidades do projeto Animalec (Sponsors 
 Protótipos para as duas versões, referentes à integração das duas novas entidades.
 
 # Localização dos ficheiros
-[Wireframes da versão mobile](https://github.com/dcota/Tarefa3.1/tree/main/wireframes_mobile)
+[Wireframes da versão mobile](https://github.com/dcota/Tarefa3.1/tree/master/wireframes_mobile)
 
-[Wireframes da versão web](https://github.com/dcota/Tarefa3.1/tree/main/wireframes_web)
+[Wireframes da versão web](https://github.com/dcota/Tarefa3.1/tree/master/wireframes_web)
 
-[Mockups da versão mobile](https://github.com/dcota/Tarefa3.1/tree/main/mockups_mobile)
+[Mockups da versão mobile](https://github.com/dcota/Tarefa3.1/tree/master/mockups_mobile)
 
-[Mockups da versão web](https://github.com/dcota/Tarefa3.1/tree/main/mockups_web)
+[Mockups da versão web](https://github.com/dcota/Tarefa3.1/tree/master/mockups_web)
 
-Protótipo da versão mobile (versão HTML disponível na pasta principal)
-
-Protótipo da versão web (versão HTML disponível na pasta principal)
+Os protótipos encontram-se na pasta [protótipos.zip](https://github.com/dcota/Tarefa3.1/blob/master/prot%C3%B3tipos.zip), deverá descarregar a pasta, descompactar os ficheiros e abrir os ficheiros html no seu browser.
 
 
